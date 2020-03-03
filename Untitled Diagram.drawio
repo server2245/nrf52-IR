@@ -1,1 +1,64 @@
-<mxfile host="www.draw.io" modified="2020-03-03T08:14:13.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="NM6Bk4AvdbCsNgsuwC7Q" version="12.7.9" type="github"><diagram id="SXAjeSLjrtiU6QzWm7wo" name="Page-1">7VlRd5owFP41PrYHglB8REs7N1ed4Lo+7VCImg2Jg1i1v36JBCEkzrZq1+30xZN8SW6S737c5MaG0ZmtrtNgPv2MIxg3gBatGsZlA4ALG9BfBqxzwLDtHJikKMohvQQ89Ag5qHF0gSKYCR0JxjFBcxEMcZLAkAhYkKZ4KXYb41icdR5MoAR4YRDL6C2KyDRHbVMr8Q8QTabFzLrGW2ZB0ZkD2TSI8LICGW7D6KQYk7w0W3VgzLgreMnHXe1o3S4shQl5yoCbrx/PssFPI/ySze4+/eh9f5x4Z9zKQxAv+IY7i4zgGcWuEIyjrAGsmJpv36e0NGGl4D6UwQiO+S7JuqAuxYskgmx2jfZYThGB3jwIWeuSaoViUzKLaU2nRb4OmBK42rlBfUsblRvEM0jSNe3CB7Q40VxpVjOvLku36YUvphWXWRwLuFImW8MlmbTA+XwGt0Di9hanP8cx06RE4HKsq0Dw1ljVm62/TKsh0drNMloEmr+eQwW1KCMKbin6Bsg1BXKB8bc125TIPYyjMYrjDo5xSusJTuBxaLsQNQlsmbULBWtNHZyINlNBGxdcobfrXr/t9LwCp9NsmySKKTNE5DGI0SSh5ZAyBCmZbcYfoseUwxtmKIrY8HYKM/QY3G9MMQfNMUrIZr9mu2FeMlsLgrP8oD2SjHW9FiQ0ySEqf4BTqdja6Y4IPQhUW78W7PxtM8bPOMkO7RHDMSlbS0flVrJ5kBRYZ+T5/c/ukA4a9Ie+06t4uNpPjkAqa0P3y8j1fBbM7gaud5Ctysr6w2vnpus5frd/czSjN32/e9XtHMGoM6I2N3ao2eGod+DGvZ6zZzyFN0rYbeN0gtm9h2ctVur89sK0YYthwZDDAtCUcfpUgeFif5z23OHXbselvS5d79N/Ga6bpnUuXjwUAVtXeeZkEbu1/94Bk8hhCR2jNQ6yDIUi53CFyDdWPtcAr94xUs+B1uL1yxVneVNZVyoDmCK6E+arHEvorr5VK7kts6iWpja1wla+ahhJSWXNN3RneJGGcP9VjATpBJJ9h53s64orTYUnCyyFcUDQg7hclXv5DAOmz8onXr+KmTWF5Nvko6rZac1QE9QMaTVDOQ+SoY3attt+uQCLq+GRFKjZggQNC/xZgi+Um0q67xL8VyUoZ7YHSbApSNBs7ZHgexR8sQS3dgrl1PPzp0vQEA0Z5utKUM7/Pd/xR155Iy+vrcpnlYNfVU5zFa29YhmKq+jrPrToqieDo503tqa/f+z/3HnTeuXzRpUNvb1P16o9Lqle+yxDdvfpskjdVhBXTyP7V/6tM3T/ywTSMnXBJYr00T5O9kir5T9kufDLvxkN9zc=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-03-03T08:17:50.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36" etag="2yqqSkWSQhb3w70qZ0LC" version="12.7.9" type="github">
+  <diagram id="SXAjeSLjrtiU6QzWm7wo" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-1" value="Custom Fields&lt;br&gt;abc&lt;br&gt;def" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="64" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-2" value="Workflows&lt;br&gt;wf1&lt;br&gt;wf2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="149" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-3" value="Issue Types&lt;br&gt;ist1&lt;br&gt;ist2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="70" y="28" width="170" height="412" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-5" value="&lt;b&gt;GLOBALS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;CUSTOMER PORTAL&lt;/span&gt;&lt;br&gt;&lt;span&gt;REQUEST TYPES&lt;/span&gt;&lt;br&gt;&lt;span&gt;CUSTOMER ORGANISATIONS&lt;/span&gt;&lt;br&gt;&lt;span&gt;CUSTOMER NOTIFICATIONS&lt;/span&gt;&lt;br&gt;&lt;span&gt;AUTOMATION RULES&lt;/span&gt;&lt;br&gt;&lt;span&gt;SLA&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;AGENT NOTIFICATIONS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;AGENT USERS/ROLES&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;KNOWLEDGEBASE&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;EMAIL REQUESTS&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;AGENT TICKET SCREEN&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="30" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-7" value="&lt;b&gt;SERVICE DESK&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="456.5" y="10" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-9" value="" style="endArrow=classic;html=1;exitX=1.02;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NVJ-sPk3cQsmYKjL_zgS-4" target="NVJ-sPk3cQsmYKjL_zgS-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="250" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-12" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.362;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="NVJ-sPk3cQsmYKjL_zgS-4" target="NVJ-sPk3cQsmYKjL_zgS-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="250" as="sourcePoint" />
+            <mxPoint x="420" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-13" value="" style="endArrow=classic;html=1;exitX=1.004;exitY=0.592;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NVJ-sPk3cQsmYKjL_zgS-4" target="NVJ-sPk3cQsmYKjL_zgS-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="260" as="sourcePoint" />
+            <mxPoint x="423" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-14" value="STATUSES&lt;br&gt;st1&lt;br&gt;st2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-15" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.801;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NVJ-sPk3cQsmYKjL_zgS-4" target="NVJ-sPk3cQsmYKjL_zgS-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="250" as="sourcePoint" />
+            <mxPoint x="420" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="28" width="163" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NVJ-sPk3cQsmYKjL_zgS-18" value="&lt;b&gt;SOFTWARE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="651" y="10" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
